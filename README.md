@@ -33,6 +33,14 @@ La modélisation des cas d'utilisation (use case modeling) dans UML suit génér
 - Signaler un Contenu Inapproprié : Les utilisateurs peuvent signaler du contenu inapproprié.
 
 - user-PIN (1).png : represente le premier acteur dans le diagramme de cas d'utilisation
+
+
+
+-------------Acteur2: Admin---------------------------
+- Adresser une infraction au droit d'auteur: l'admin peut identifier l'infraction
+- Manager le contenu: l'admin a le pouvoir et les autorisations nécessaires pour superviser, contrôler, modifier, organiser ou supprimer le contenu de l'application
+- Sécurité des données: l'admin d'une application a la responsabilité de mettre en place et de maintenir des mesures de sécurité et de protection des données pour garantir la confidentialité, l'intégrité et la disponibilité des informations stockées et traitées par cette plateforme
+- Gérer les utilisateurs: l'admin a la capacité et l'autorisation de superviser et de contrôler les comptes et les activités des utilisateurs de l'application.
   
 
 
