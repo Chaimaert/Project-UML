@@ -99,7 +99,7 @@ Je passe en revue le diagramme de classe pour vous assurer qu'il reflète correc
 Finalisez la documentation du diagramme de classe en fournissant une légende, des descriptions de classes et des explications pour rendre le diagramme compréhensible pour d'autres personnes.
 On  suivons ces étapes, nous obtiendrons un diagramme de classe décrivant l'architecture de Pinterest
 
--> Digramme-de-Classe.png : represente le diagramme de classe
+-> Diagramme-de-classe.png : represente le diagramme de classe de notre projet
 
   
 
