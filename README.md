@@ -32,4 +32,7 @@ La modélisation des cas d'utilisation (use case modeling) dans UML suit génér
 
 - Signaler un Contenu Inapproprié : Les utilisateurs peuvent signaler du contenu inapproprié.
 
+- user-PIN (1).png : represente le premier acteur dans le diagramme de cas d'utilisation
+  
+
 
