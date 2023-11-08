@@ -41,6 +41,25 @@ La modélisation des cas d'utilisation (use case modeling) dans UML suit génér
 - Manager le contenu: l'admin a le pouvoir et les autorisations nécessaires pour superviser, contrôler, modifier, organiser ou supprimer le contenu de l'application
 - Sécurité des données: l'admin d'une application a la responsabilité de mettre en place et de maintenir des mesures de sécurité et de protection des données pour garantir la confidentialité, l'intégrité et la disponibilité des informations stockées et traitées par cette plateforme
 - Gérer les utilisateurs: l'admin a la capacité et l'autorisation de superviser et de contrôler les comptes et les activités des utilisateurs de l'application.
+
+---------Le reste des acteurs-------
+-Acteur : Visiteur (Non enregistré)
+
+- Parcourir les épingles - Les visiteurs peuvent parcourir et afficher des épingles sur Pinterest sans être enregistrés.
+- Rechercher des épingles - Les visiteurs peuvent rechercher des épingles en utilisant des mots-clés sans avoir besoin de créer un compte.
+- Explorer les catégories - Les visiteurs peuvent explorer des épingles basées sur différentes catégories.
+- Inscription - Les visiteurs ont la possibilité de s'inscrire pour créer un compte Pinterest et devenir des utilisateurs.
+
+-Acteur : Système de Stockage Externe d'Images
+
+-Télécharger une Image : Le système de stockage externe d'images reçoit les téléchargements d'images depuis Pinterest, que ce soit directement des utilisateurs ou dans le cadre de la création de pins.
+
+-Stocker une Image : Il stocke les images téléchargées de manière sécurisée et efficace, veillant à ce qu'elles soient disponibles pour une récupération future.
+
+-Supprimer une Image : Le système externe permet à Pinterest de supprimer des images, que ce soit à la demande de l'utilisateur ou en cas de violation des politiques.
+
+-Traitement d'Images : Il peut effectuer des tâches de traitement d'images, telles que le redimensionnement, le recadrage ou l'optimisation des images, pour garantir qu'elles répondent aux exigences d'affichage de Pinterest.
+
   
 
 
