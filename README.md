@@ -30,3 +30,5 @@ Partager une Épingle : Les utilisateurs peuvent partager des épingles sur les 
 
 
 Signaler un Contenu Inapproprié : Les utilisateurs peuvent signaler du contenu inapproprié.
+
+-------Commençant par le premier acteur----------
